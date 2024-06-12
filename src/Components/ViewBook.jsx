@@ -52,28 +52,28 @@ const ViewBook = () => {
                                     <th scope="row">5</th>
                                     <td>Jurrassic park</td>
                                     <td>Thornton</td>
-                                    <td>abd</td>
+                                    <td>2012</td>
                                     <td>50</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">6</th>
                                     <td>godzilla</td>
                                     <td>Thornton</td>
-                                    <td>ef</td>
+                                    <td>1999</td>
                                     <td>90</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">7</th>
                                     <td>Dark night</td>
                                     <td>Thornton</td>
-                                    <td>rtb</td>
+                                    <td>1987</td>
                                     <td>80</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">8</th>
                                     <td>Light house</td>
                                     <td>Thornton</td>
-                                    <td>tfv</td>
+                                    <td>1978</td>
                                     <td>100</td>
                                 </tr>
                             </tbody>
